@@ -1,0 +1,47 @@
+{
+    "name": "silly multiplayer game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*",
+        "sprite-scaling": "*",
+        "animation": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.49",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#7EA271",
+        "#F2D9C4",
+        "#8756B8",
+        "#660F0F",
+        "#929292",
+        "#F4D35D",
+        "#B08A5E",
+        "#653910",
+        "#737373",
+        "#E9A001",
+        "#5CB42D",
+        "#304AB0",
+        "#A460A2"
+    ]
+}
